@@ -1,0 +1,111 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+
+    background-color: black ;
+    padding: 20px;
+    
+
+    overflow: hidden;
+}
+
+div.logo{
+    background-color: darkmagenta;
+width: 30% ;
+color: floralwhite;
+float: left;
+
+text-align: center;
+
+
+}
+
+div.banner{
+    background-color: darkred;
+    width: 70%;
+    color: rgb(240, 240, 247);
+    float: right;
+    
+    text-align: center;
+    
+
+} 
+nav h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+article {
+    background-color: brown;
+    height: 500px;
+    overflow: hidden;
+
+}
+.left {
+    background-color: darkmagenta;
+    width: 30%;
+    float: left;
+    height: 500px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.middle{
+    background-color: darkviolet;
+    width: 40%;
+    float: left;
+    height: 500px; 
+    text-align: center;
+    overflow: hidden;
+}
+
+.Right {
+    background-color: deeppink;
+    width:30%;
+    float: right;
+    height: 500px; 
+    text-align: center;overflow: hidden;
+}
+.top
+{ 
+    height: 150px;
+    width: 100%;
+    background-color: black;
+
+}
+.center
+{
+    height:200px ;
+    width: 100%;
+background-color: forestgreen;
+}
+
+.bottom 
+{
+    height: 150px;
+    width: 100%;
+    background-color: indianred;
+}
+
+.cleft {
+    float: left;
+    background-color: crimson;
+    width: 50%;
+    height: 100%;
+
+}
+.cright{
+    float: right;
+    background-color: darkorange;
+    width: 50%;
+    height: 100%;
+}
+footer {
+    background-color: dimgray;
+    text-align: center;
+}
